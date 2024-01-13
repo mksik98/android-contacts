@@ -15,7 +15,7 @@ import ru.yandex.practicum.contacts.R;
 import ru.yandex.practicum.contacts.model.ContactType;
 import ru.yandex.practicum.contacts.presentation.base.BaseBottomSheetDialogFragment;
 import ru.yandex.practicum.contacts.presentation.filter.model.FilterContactTypeUi;
-import ru.yandex.practicum.contacts.ui.widget.DividerItemDecoration;
+import ru.yandex.practicum.contacts.mapper.widget.DividerItemDecoration;
 
 public class FilterContactTypeDialogFragment extends BaseBottomSheetDialogFragment<FilterContactTypeViewModel> {
 

@@ -1,4 +1,4 @@
-package ru.yandex.practicum.contacts.ui.widget;
+package ru.yandex.practicum.contacts.mapper.widget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
